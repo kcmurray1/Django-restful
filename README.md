@@ -11,6 +11,11 @@ python .\env\Scripts\django-admin.exe startproject <project_name>
 ```
 
 
+## creat app 
+```
+python manage.py startapp <app_name>
+```
+
 # Create DB
 ## Make project files
 cd into project folder

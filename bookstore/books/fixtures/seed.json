@@ -1,0 +1,86 @@
+[
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "Train Your Dragon To Be Kind",
+            "price": 9.46
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "Love You Forever",
+            "price": 7.89,
+            "book_type": 1
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "How to Babysit a Grandma",
+            "price": 6.74,
+            "book_type": 2
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "Giraffe Can't Dance",
+            "price": 4.99,
+            "book_type": 2
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "The Going-To-Bed Book",
+            "price": 5.99
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "The Pout-Pout Fish",
+            "price": 5.79,
+            "book_type": 1
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "Dragons Love Tacose",
+            "price": 12.59
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "I Can Do That: Origami",
+            "price": 9.94,
+            "book_type": 1
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "The Way Things Work Now",
+            "price": 20.70,
+            "book_type": 1
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "Brown Bear, Brown Bear, What Do You See?",
+            "price": 7.95
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "title": "I've Loved You Since Forever",
+            "price": 14.24,
+            "book_type": 1
+        }
+    }
+]
