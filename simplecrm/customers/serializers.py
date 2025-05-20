@@ -11,7 +11,7 @@ class CustomerSerializer(serializers.ModelSerializer):
         many=True,
         read_only=True
     )
-    
+
     class Meta:
         model = Customer
         fields = ["id", "name", "industry", "contacts"]
